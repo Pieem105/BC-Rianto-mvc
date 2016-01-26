@@ -1,0 +1,44 @@
+.affix {
+	top: 0;
+	width: 100%;
+}
+
+.affix + #menubar_id {
+	padding-top: 100px;
+}
+
+.class_venster {
+    font-family: Verdana, Arial, sans-serif;
+    position: absolute;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: none;  
+    border: solid;
+    border-width: 3px;
+    border-color: #33A;
+    background-color: gainsboro;
+    color: #33A;
+}
+
+#login_venster_id {
+    width: 325px;
+    height: 150px;
+    top: 350px;
+    left: 500px;
+}
+
+#contact_venster_id {
+    width: 300px;
+    height: 215px;
+    top: 150px;
+    left: 300px;
+}
+
+#bevestig_venster_id {
+    width: 300px;
+    height: 200px;
+    top: 150px;
+    left: 750px;
+}

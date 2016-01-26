@@ -1,0 +1,51 @@
+<rss version="2.0">
+	<channel>
+		<title>BC Rianto - Nieuws</title>
+		<link>http://www.bcrianto.nl/</link>
+		<language>en-US</language>
+		<pubDate>Thu, 17 Dec 2015 10:04:34 GMT</pubDate>
+		<copyright>Copyright 2015 BC Rianto</copyright>
+		<lastBuildDate>Thu, 17 Dec 2015 10:04:34 GMT</lastBuildDate>
+		<managingEditor>info@bcrianto.nl</managingEditor>
+		<webMaster>info@bcrianto.nl</webMaster>
+		<item>
+			<title>Kerstballentoernooi</title>
+			<link>
+				http://www.bcrianto.nl/
+			</link>
+			<guid>
+				http://www.bcrianto.nl/
+			</guid>
+			<description>
+				Het was weer een geslaagd toernooi!
+			</description>
+			<pubDate>Thu, 10 Dec 2015 09:28:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Opvang asielzoekers</title>
+			<link>
+				http://www.bcrianto.nl/
+			</link>
+			<guid>
+				http://www.bcrianto.nl/
+			</guid>
+			<description>
+				Binnenkort worden er weer asielzoekers opgevangen in de Hanzehal!
+			</description>
+			<pubDate>Thu, 10 Dec 2015 09:28:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Nieuwe leden</title>
+			<link>
+				http://www.bcrianto.nl/
+			</link>
+			<guid>
+				http://www.bcrianto.nl/
+			</guid>
+			<description>
+				BC Rianto is nog steeds op zoek naar nieuwe leden, help jij mee?
+			</description>
+			<pubDate>Thu, 10 Dec 2015 09:28:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

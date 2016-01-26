@@ -1,0 +1,21 @@
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('1', 'Welkom', 'Welkom op de Welkomst-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('2', 'Beheer', 'Welkom op de Beheer-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('3', 'Inloggen', 'Welkom op de Inlog-pagina van BC Rianto');
+
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('10', 'Vereniging', 'Welkom op de Vereniging-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('11', 'Geschiedenis', 'Welkom op de Geschiedenis-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('12', 'Bestuur', 'Welkom op de Bestuurspagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('13', 'Competitie', 'Welkom op de Competitie-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('14', 'Recreanten', 'Welkom op de Recreanten-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('15', 'Jeugd', 'Welkom op de Jeugd-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('16', 'Nieuws', 'Welkom op de Nieuws-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('17', 'Agenda', 'Welkom op de Agenda-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('18', 'Contact', 'Welkom op de Contact-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('19', 'Commissies', 'Welkom op de Commissies-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('20', 'Training', 'Welkom op de Training-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('21', 'Najaarscompetitie', 'Welkom op de Najaarscompetitie-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('22', 'Voorjaarscompetitie', 'Welkom op de Voorjaarscompetitie-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('23', 'Teams', 'Welkom op de Teams-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('24', 'Accomodaties', 'Welkom op de -pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('25', 'Nieuwsbrieven', 'Welkom op de Accomodaties-pagina van BC Rianto');
+INSERT INTO `bcrianto`.`webpaginas` (`pagina_id`, `titel`, `inhoud`) VALUES ('26', 'Wat bieden wij', 'Welkom op de Wat bieden wij-pagina van BC Rianto');
