@@ -32,8 +32,8 @@ if (!defined('SERVER_OS')) {
  * bepaal het root path
  */
 $sRoot = dirname(__FILE__);
-$nPos = strpos($sRoot, 'bcrianto-mvc');
-$sRoot = substr($sRoot, 0, $nPos).'bcrianto-mvc/';
+$nPos = strpos($sRoot, 'BC-Rianto-mvc');
+$sRoot = substr($sRoot, 0, $nPos).'BC-Rianto-mvc/';
 DEFINE('ROOT', $sRoot);
 /**
  * stel include path in
